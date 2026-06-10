@@ -1,0 +1,502 @@
+#EXTM3U
+#EXTINF:0,Radio Pensiunan Tangerang Selatan
+#EXTVLCOPT:file-caching=1000
+https://wms.klikhost.com:2020/stream/radiopensiunan
+#EXTINF:0,Radio Golden Hits FM Jakarta
+#EXTVLCOPT:file-caching=1000
+https://i.klikhost.com/8272/stream/
+#EXTINF:0,Radio Mettaswara Slow Notalgia
+#EXTVLCOPT:file-caching=1000
+https://mettaswara.com:8700/slow
+#EXTINF:0,Radio SB FM Tembang Kenangan
+#EXTVLCOPT:file-caching=1000
+https://stream.zeno.fm/d16n50mkzhhvv
+#EXTINF:0,Radio SBFM Pare-pare
+#EXTVLCOPT:file-caching=1000
+https://stream-151.zeno.fm/pb3pe7y994zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwYjNwZTd5OTk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im8wbVBUdmE4U0plV1hxYlBLSDNLSEEiLCJpYXQiOjE3NjkwMTc1ODIsImV4cCI6MTc2OTAxNzY0Mn0.cgBmyjjzEe4BXb6JhR3iwZSSP4lY_QKaL36VXL--vXw
+#EXTINF:0,Radio Mettaswara 90-an
+#EXTVLCOPT:file-caching=1000
+https://mettaswara.com:8700/metta90
+#EXTINF:0,Radio Mettaswara Pop Indo 2000-an
+#EXTVLCOPT:file-caching=1000
+https://mettaswara.com:8700/indo00
+#EXTINF:0,Radio Mettaswara Indonesia Song
+#EXTVLCOPT:file-caching=1000
+https://mettaswara.com:8700/indo
+#EXTINF:0,Radio Mettaswara Hits Song
+#EXTVLCOPT:file-caching=1000
+https://mettaswara.com:8700/hits
+#EXTINF:0,Radio Mettaswara Slow Rock
+#EXTVLCOPT:file-caching=1000
+https://mettaswara.com:8700/slowrock
+#EXTINF:0,Radio Mettaswara Love Song
+#EXTVLCOPT:file-caching=1000
+https://mettaswara.com:8700/love
+#EXTINF:0,Radio Mettaswara Dangdut
+#EXTVLCOPT:file-caching=1000
+https://mettaswara.com:8700/d4d
+#EXTINF:0,Radio Mettaswara Campursari
+#EXTVLCOPT:file-caching=1000
+https://mettaswara.com:8700/cps
+#EXTINF:0,Radio Zora 90.1 FM Bandung
+#EXTVLCOPT:file-caching=1000
+https://s1.gntr.net/listen/zora_radio/zora
+#EXTINF:0,Radio Voks Bandung
+#EXTVLCOPT:file-caching=1000
+https://a7.alhastream.com:4000/radio
+#EXTINF:0,Radio KLCBS Bandung
+#EXTVLCOPT:file-caching=1000
+https://streaming.klcbsofficial.com/listen/klcbs/klcbs
+#EXTINF:0,Radio Ardan 105.9 FM Bandung
+#EXTVLCOPT:file-caching=1000
+https://stream.rcs.revma.com/ugpyzu9n5k3vv
+#EXTINF:0,Radio Fit Bandung
+#EXTVLCOPT:file-caching=1000
+https://sukmben.radiogentara.com/radio/8140/stream
+#EXTINF:0,Radio Asmaraku Bandung
+#EXTVLCOPT:file-caching=1000
+https://void.idserverhost.com/8054/stream
+#EXTINF:0,Radio XChannel Bandung
+#EXTVLCOPT:file-caching=1000
+https://stream.xradio.co.id/xchannelbdg
+#EXTINF:0,Radio K-LITE 107.1 FM Bandung
+#EXTVLCOPT:file-caching=1000
+https://svara-stream.radioddns.net/bandung_klitefm_acc
+#EXTINF:0,RRI Pro 1 Bandung
+#EXTVLCOPT:file-caching=1000
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
+#EXTINF:0,RRI Pro 4 Bandung
+#EXTVLCOPT:file-caching=1000
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3
+#EXTINF:0,RRI Pro 2 Bandung
+#EXTVLCOPT:file-caching=1000
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
+#EXTINF:0,Radio Rajawali Bandung
+#EXTVLCOPT:file-caching=1000
+http://128.199.251.123:1027/;
+#EXTINF:0,Radio Ananda Bandung
+#EXTVLCOPT:file-caching=1000
+http://sx.alhasmedia.com/radio/8220/radio
+#EXTINF:0,i-Radio Jakarta
+#EXTVLCOPT:file-caching=1000
+https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
+#EXTINF:0,i-Radio Bandung
+#EXTVLCOPT:file-caching=1000
+https://stream.radiojar.com/u6ppe6hswk8uv
+#EXTINF:0,i-Radio Jogja
+#EXTVLCOPT:file-caching=1000
+https://stream.radiojar.com/hnf2cbv80k8uv
+#EXTINF:0,i-Radio Medan
+#EXTVLCOPT:file-caching=1000
+https://stream.radiojar.com/hkuevehswk8uv
+#EXTINF:0,i-Radio Makasar
+#EXTVLCOPT:file-caching=1000
+https://stream.radiojar.com/seqmzfeu5k8uv
+#EXTINF:0,i-Radio Banjarmasin
+#EXTVLCOPT:file-caching=1000
+https://stream.radiojar.com/qfqd2aw80k8uv
+#EXTINF:0,RRI Pro 1 91.2 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+#EXTINF:0,RRI Pro 2 105.0 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
+#EXTINF:0,RRI Pro 3 88.8 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+#EXTINF:0,RRI Pro 4 92.8 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
+#EXTINF:0,RRI Pro 5 Jakarta
+#EXTVLCOPT:file-caching=1000
+https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
+#EXTINF:0,RRI Kanal Kenangan
+#EXTVLCOPT:file-caching=1000
+https://stream-node2.rri.co.id/streaming/40/9340/memori.mp3
+#EXTINF:0,RRI Kanal Jazz
+#EXTVLCOPT:file-caching=1000
+https://stream-node2.rri.co.id/streaming/40/9340/jazz.mp3
+#EXTINF:0,RRI Voice of Indonesia
+#EXTVLCOPT:file-caching=1000
+https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+#EXTINF:0,Radio Tebet Media Jakarta
+#EXTVLCOPT:file-caching=1000
+https://stream-ssl.arenastreaming.com:8066/stream
+#EXTINF:0,Radio Female Jakarta
+#EXTVLCOPT:file-caching=1000
+http://onlineradiobox.com/json/id/female/play
+#EXTINF:0,Radio Elshinta Jakarta
+#EXTVLCOPT:file-caching=1000
+https://stream-ssl.arenastreaming.com:8000/jakarta
+#EXTINF:0,Radio Camajaya FM Jakarta
+#EXTVLCOPT:file-caching=1000
+https://ssg.streamingmurah.com:8078/;
+#EXTINF:0,Radio Sonora 92.0 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+https://sonora-radio.arenastreaming.com/8130/stream
+#EXTINF:0,Radio Delta 99.1 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+http://s1.cloudmu.id:8030/radio.mp3
+#EXTINF:0,Radio Gen 98.7 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
+#EXTINF:0,Radio Trax FM Jakarta
+#EXTVLCOPT:file-caching=1000
+https://stream.radiojar.com/rrqf78p3bnzuv.mp3?1729556952
+#EXTINF:0,Radio Jak 101 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
+#EXTINF:0,Radio Most 105.8 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8
+#EXTINF:0,Radio Motion Jakarta
+#EXTVLCOPT:file-caching=1000
+https://cast1.my-control-panel.com/proxy/radioso4/stream
+#EXTINF:0,Radio Rona Mkb Jakarta
+#EXTVLCOPT:file-caching=1000
+https://void.idserverhost.com/8036/stream
+#EXTINF:0,Radio TJ Jakarta
+#EXTVLCOPT:file-caching=1000
+https://stream-eu-nc.arenastreaming.com:8847/stream
+#EXTINF:0,Radio X Channel Jakarta
+#EXTVLCOPT:file-caching=1000
+https://stream.xradio.co.id/xchanneljkt
+#EXTINF:0,Radio Indika / Hitz Fm Jakarta
+#EXTVLCOPT:file-caching=1000
+https://das-edge14-live365-dal02.cdnstream.com/a06375
+#EXTINF:0,Radio Campursari Jakarta
+#EXTVLCOPT:file-caching=1000
+https://streaming.campursarifm.com/listen/campursari/campursari892
+#EXTINF:0,Radio Kis 95.1 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
+#EXTINF:0,Radio Smart 95.9 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+https://cast2.my-control-panel.com/proxy/radioso3/stream
+#EXTINF:0,Radio Mustang 88.0 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
+#EXTINF:0,Radio Classynet Jakarta
+#EXTVLCOPT:file-caching=1000
+https://streaming.classynetradio.com/listen/classy_netradio_indonesia/classySD
+#EXTINF:0,Radio Trijaya Jakarta
+#EXTVLCOPT:file-caching=1000
+http://202.147.199.101:8000/;
+#EXTINF:0,Radio Brava 103.8 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+http://stream.radiojar.com/5k7t0rq3bnzuv
+#EXTINF:0,Radio Cosmopolitan 90.4 FM Jakarta
+#EXTVLCOPT:file-caching=1000
+http://stream.radiojar.com/u7d8heq3bnzuv
+#EXTINF:0,Radio BEST FM Jogja
+#EXTVLCOPT:file-caching=1000
+https://i.klikhost.com/9604/stream
+#EXTINF:0,Radio Sonora FM 97.4 Jogja
+#EXTVLCOPT:file-caching=1000
+https://cast3.asurahosting.com/proxy/radios28/stream
+#EXTINF:0,Radio Dengerin Musik Indonesia Jogja
+#EXTVLCOPT:file-caching=1000
+https://stream.denger.in/
+#EXTINF:0,Radio Kotaperak 94 - 6 FM Jogja
+#EXTVLCOPT:file-caching=1000
+https://server.adyadigitalteknologi.com:8010/8/;
+#EXTINF:0,Radio Jiz FM 89.5 Jogja
+#EXTVLCOPT:file-caching=1000
+https://pu.klikhost.com/proxy/jizfm/stream
+#EXTINF:0,Radio Voks Jogja
+#EXTVLCOPT:file-caching=1000
+https://svara-stream.radioddns.net/yogyakarta_voksradio
+#EXTINF:0,Radio Suara Koncotani Jogja
+#EXTVLCOPT:file-caching=1000
+https://r5.siar.us:8711/stream
+#EXTINF:0,Radio Swaragama FM Jogja
+#EXTVLCOPT:file-caching=1000
+https://stream.urfan.id/swaragama
+#EXTINF:0,Radio Retjo Buntung Jogja
+#EXTVLCOPT:file-caching=1000
+https://ssg.streamingmurah.com:9940/stream
+#EXTINF:0,Radio Geronimo Jogja
+#EXTVLCOPT:file-caching=1000
+https://ig.idstreamer.com:8090/live
+#EXTINF:0,Radio Campursari Jogja
+#EXTVLCOPT:file-caching=1000
+https://a8.siar.us/listen/campursari/stream
+#EXTINF:0,Radio Bercahaya LPPL Cilacap
+#EXTVLCOPT:file-caching=1000
+https://bercahayafm.my.id:8000/live
+#EXTINF:0,Radio Utari 101 FM Cilacap
+#EXTVLCOPT:file-caching=1000
+https://s5.alhastream.com:8220/radio
+#EXTINF:0,Radio Yes - 104.2 FM Cilacap
+#EXTVLCOPT:file-caching=1000
+https://stream-288.zeno.fm/vfckq3qrt5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2ZmNrcTNxcnQ1cXV2IiwiaG9zdCI6InN0cmVhbS0yODguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhNQUtZZXdtU2hDOEdaSi1STGFUNXciLCJpYXQiOjE3NzgxMTkzODQsImV4cCI6MTc3ODExOTQ0NH0.4goyyr7rucUcNP_OsfjS7bB_TeNneK0rWKksRkRX2dk
+#EXTINF:0,Radio Thomson Cilacap
+#EXTVLCOPT:file-caching=1000
+https://i.klikhost.com/thomsoncilacap/stream
+#EXTINF:0,Radio YASIKA FM Purwokerto
+#EXTVLCOPT:file-caching=1000
+https://i.klikhost.com/9608/stream
+#EXTINF:0,Radio Pasopati Majenang Cilacap
+#EXTVLCOPT:file-caching=1000
+https://stream.pasopatiradio.com/pasopati
+#EXTINF:0,Radio Gita FM Kroya Cilacap
+#EXTVLCOPT:file-caching=1000
+https://a3.siar.us:8200/stream
+#EXTINF:0,Radio ESKA FM 106.1 Sidareja Cilacap
+#EXTVLCOPT:file-caching=1000
+https://free.rcast.net/1034655
+#EXTINF:0,Radio Bianglala Cilacap/BVoice Radio Binus
+#EXTVLCOPT:file-caching=1000
+https://a1.siar.us/radio/8450/radio.mp3
+#EXTINF:0,Radio Tiara FM Cilacap
+#EXTVLCOPT:file-caching=1000
+https://az.azurafree.eu:8060/radio.mp3
+#EXTINF:0,Radio Tsania FM 101.8 Bumiayu
+#EXTVLCOPT:file-caching=1000
+https://a10.siar.us/radio/8280/radio.mp3
+#EXTINF:0,RRI PRO 1 Purwokerto
+#EXTVLCOPT:file-caching=1000
+https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro1.mp3
+#EXTINF:0,RRI PRO 2 Purwokerto
+#EXTVLCOPT:file-caching=1000
+https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3
+#EXTINF:0,Radio Masfm Kebumen
+#EXTVLCOPT:file-caching=1000
+https://s3.alhastream.com:8440/masfm
+#EXTINF:0,Radio Masa Kini Ciamis
+#EXTVLCOPT:file-caching=1000
+https://ini.radiomasakini.com/listen/rmk/rmk
+#EXTINF:0,Radio Dakta Bekasi
+#EXTVLCOPT:file-caching=1000
+https://play.urfan.id/?url=https://stream.urfan.id/dakta
+#EXTINF:0,Radio Pass FM 105.2 Cilegon
+#EXTVLCOPT:file-caching=1000
+https://eradio.web.id/passfm
+#EXTINF:0,Radio X Channel Serang
+#EXTVLCOPT:file-caching=1000
+https://stream.xradio.co.id/xchannelsrg
+#EXTINF:0,Radio Bens FM 106.2 Ciputat
+#EXTVLCOPT:file-caching=1000
+https://streaming.bensradio.com:8522/stream
+#EXTINF:0,Radio KEILOVE FM Tasikmalaya
+#EXTVLCOPT:file-caching=1000
+https://s3.alhastream.com:8440/keilove
+#EXTINF:0,Radio Kasihku FM 106.9 Bumiayu
+#EXTVLCOPT:file-caching=1000
+https://i.klikhost.com/8128/;
+#EXTINF:0,Radio Malaysia - Sabah FM
+#EXTVLCOPT:file-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac
+#EXTINF:0,Radio Malaysia - Era Sarawak
+#EXTVLCOPT:file-caching=1000
+https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8
+#EXTINF:0,Radio Malaysia - Asyik FM
+#EXTVLCOPT:file-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3
+#EXTINF:0,Radio Malaysia - TraXX FM
+#EXTVLCOPT:file-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC
+#EXTINF:0,Radio Malaysia - Nasional FM
+#EXTVLCOPT:file-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3
+#EXTINF:0,Radio Malaysia - Klasik FM
+#EXTVLCOPT:file-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3
+#EXTINF:0,Radio Bharata Tangerang
+#EXTVLCOPT:file-caching=1000
+https://c1.siar.us:8800/live
+#EXTINF:0,Radio BRAYA Bogor
+#EXTVLCOPT:file-caching=1000
+https://live.brayaradio.com/listen/brayaradio/stream
+#EXTINF:0,Radio DNA FM JEPARA
+#EXTVLCOPT:file-caching=1000
+https://sc.dnafm.net/listen/dnafm/live
+#EXTINF:0,Radio KISI FM Bogor
+#EXTVLCOPT:file-caching=1000
+http://live.kisifm.com/kisifm
+#EXTINF:0,Radio KRADIO HSS -  KalSel
+#EXTVLCOPT:file-caching=1000
+https://live.kradionews.com/listen/kradio/stream
+#EXTINF:0,Radio Losta FM Blitar
+#EXTVLCOPT:file-caching=1000
+https://stream.zeno.fm/ar3nv92ahfhvv
+#EXTINF:0,Radio Start Tangerang
+#EXTVLCOPT:file-caching=1000
+http://listen.staradio1073fm.net:8070/stream
+#EXTINF:0,Radio Gajah Mada Semarang
+#EXTVLCOPT:file-caching=1000
+https://server.radioimeldafm.co.id:8040/gajahmadafm
+#EXTINF:0,Radio Vocaradio Semarang
+#EXTVLCOPT:file-caching=1000
+https://streaming.celindo.id:8220/vocaradio
+#EXTINF:0,Radio Fit Semarang
+#EXTVLCOPT:file-caching=1000
+https://stream-ssl.arenastreaming.com:8002/fit_semarang
+#EXTINF:0,Radio UP Semarang
+#EXTVLCOPT:file-caching=1000
+https://stream.tujuhcahaya.com/listen/radio_upradio_semarang/radio.mp3
+#EXTINF:0,Radio One Voice Semarang
+#EXTVLCOPT:file-caching=1000
+https://a7.siar.us/listen/onevoice/stream
+#EXTINF:0,Radio Swara Semarang
+#EXTVLCOPT:file-caching=1000
+https://server.radioimeldafm.co.id/radio/8010/swarasemarang
+#EXTINF:0,Radio Kis fm Semarang
+#EXTVLCOPT:file-caching=1000
+https://stream.radiokis.id/kisfm2
+#EXTINF:0,RRI PRO-4 801 AM Semarang
+#EXTVLCOPT:file-caching=1000
+https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro4.mp3
+#EXTINF:0,99.9 FM - Radio Suara Salatiga 99.9 FM
+#EXTVLCOPT:file-caching=1000
+https://icecast.salatiga.go.id:8443/stream.ogg
+#EXTINF:0,92.9 FM - Radio Solo
+#EXTVLCOPT:file-caching=1000
+https://play.urfan.id/?url=https://jgj.jogjastreamers.com/soloradio151515stereo
+#EXTINF:0,88.0 FM - Radio Mass FM Sragen
+#EXTVLCOPT:file-caching=1000
+https://mass.urfan.id/download.mp3
+#EXTINF:0,88.8 FM - Radio POP FM Indonesia
+#EXTVLCOPT:file-caching=1000
+https://i.klikhost.com/9612/stream.aac
+#EXTINF:0,89.6 FM - Radio H GPN Soloraya
+#EXTVLCOPT:file-caching=1000
+https://b.alhastream.com:5041/radio
+#EXTINF:0,90.6 FM - Radio Rowasia Solo
+#EXTVLCOPT:file-caching=1000
+https://a1.siar.us/listen/rowasiafm/rowasiafm.mp3
+#EXTINF:0,90.9 FM - Radio Pas FM Solo
+#EXTVLCOPT:file-caching=1000
+https://i.klikhost.com/8266/stream.aac
+#EXTINF:0,91.6 FM - RSPD LPPL Klaten
+#EXTVLCOPT:file-caching=1000
+https://play.urfan.id/?url=https://jgj.jogjastreamers.com/lpplklaten
+#EXTINF:0,93.6 FM - Radio Merapi LPPL Boyolali
+#EXTVLCOPT:file-caching=1000
+http://merapifm.boyolali.go.id/stream
+#EXTINF:0,94.0 FM - Radio Giri Swara Wonogiri
+#EXTVLCOPT:file-caching=1000
+https://play.urfan.id/?url=http://rgs.us.myradio.web.id:8000/rgs
+#EXTINF:0,94.7 FM - Radio Buana Asri LPPL Sragen
+#EXTVLCOPT:file-caching=1000
+https://stream-eu-nc.arenastreaming.com:6477/stream
+#EXTINF:0,101.0 FM - RRI PRO-1 Surakarta
+#EXTVLCOPT:file-caching=1000
+https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro1.mp3
+#EXTINF:0,105.5 FM - RRI PRO-2 Surakarta
+#EXTVLCOPT:file-caching=1000
+https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro2.mp3
+#EXTINF:0,95.2 FM - RRI PRO-4 Surakarta
+#EXTVLCOPT:file-caching=1000
+https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro4.mp3
+#EXTINF:0,96.3 FM - Radio Swiba LPPL Karanganyar
+#EXTVLCOPT:file-caching=1000
+https://s5.alhastream.com/radio/8180/radio
+#EXTINF:0,97.0 FM - Radio AAS FM (Rapendiks) Solo
+#EXTVLCOPT:file-caching=1000
+https://audiostreamserver.indonesiastreaming.com/aasfm
+#EXTINF:0,97.3 FM - Radio Opini Solo
+#EXTVLCOPT:file-caching=1000
+https://a12.siar.us/listen/radioopini/stream
+#EXTINF:0,99.60 FM - Radio PTPN Solo
+#EXTVLCOPT:file-caching=1000
+https://ssg.streamingmurah.com:8040/stream
+#EXTINF:0,99.9 FM - Radio Isykarima
+#EXTVLCOPT:file-caching=1000
+https://ssg.streamingmurah.com:8406/stream.mp3
+#EXTINF:0,101.4 FM - Radio Dakwah Syariah
+#EXTVLCOPT:file-caching=1000
+https://audiostreamserver.indonesiastreaming.com/rdsfm
+#EXTINF:0,102.2 FM - Radio Persada FM
+#EXTVLCOPT:file-caching=1000
+https://play.urfan.id/?url=http://mtamedia.net:1079
+#EXTINF:0,103 FM - Radio Solopos
+#EXTVLCOPT:file-caching=1000
+http://live.solopos.com:8002/stream
+#EXTINF:0,103.3 FM - Radio Salma Klaten
+#EXTVLCOPT:file-caching=1000
+https://play.urfan.id/?url=https://jgj.jogjastreamers.com/salmastereo
+#EXTINF:0,103.3 FM - Radio Jeng Sri FM 107.2 Klaten
+#EXTVLCOPT:file-caching=1000
+https://c4.siar.us:8083/stream
+#EXTINF:0,103.5 FM - TA Radio Solo
+#EXTVLCOPT:file-caching=1000
+http://c1.siar.us:10350/stream
+#EXTINF:0,104.3 FM - Radio Yasika Solo
+#EXTVLCOPT:file-caching=1000
+https://i.klikhost.com/9610/stream.aac
+#EXTINF:0,104.7 FM - Radio Metta FM Solo
+#EXTVLCOPT:file-caching=1000
+https://srv1.streamcast.my.id/listen/metta_solo_fm/radio.mp3
+#EXTINF:0,107.1 FM - Radio Gentara Wonogiri
+#EXTVLCOPT:file-caching=1000
+https://s1.gntr.net/radio/8080/gentara128
+#EXTINF:0,107.7 FM - Radio Jumapolo Karanganyar
+#EXTVLCOPT:file-caching=1000
+https://b.alhastream.com:5012/radio
+#EXTINF:0,972 AM - Radio Silaturrahim
+#EXTVLCOPT:file-caching=1000
+https://ssg.streamingmurah.com:9300/;?1773784063371
+#EXTINF:0,Radio Al-Manshuroh Cilacap
+#EXTVLCOPT:file-caching=1000
+http://cilacap.radioislam.my.id:11162/stream
+#EXTINF:0,Radio Rodja Bogor
+#EXTVLCOPT:file-caching=1000
+https://live2.radiorodja.com/rodja.mp3
+#EXTINF:0,Radio Rodja 756 AM dan 100.1 FM
+#EXTVLCOPT:file-caching=1000
+https://radioislamindonesia.com/rodja.mp3
+#EXTINF:0,Radio Rodja Majalengka 93.1 FM
+#EXTVLCOPT:file-caching=1000
+https://radioislamindonesia.com/rodja-majalengka.mp3
+#EXTINF:0,Rodja TV - Satelit Telkom 4
+#EXTVLCOPT:file-caching=1000
+https://radioislamindonesia.com/rodjatv.mp3
+#EXTINF:0,Radio Tarbiyah Sunnah 1476 AM Bandung
+#EXTVLCOPT:file-caching=1000
+https://radioislamindonesia.com/tarbiyah.mp3
+#EXTINF:0,Radio Mutiara Qur an 1170 AM Semarang
+#EXTVLCOPT:file-caching=1000
+https://radioislamindonesia.com/mutiaraquran.mp3
+#EXTINF:0,Radio Muslim Yogyakarta
+#EXTVLCOPT:file-caching=1000
+https://streaming.radiomuslim.com/;stream/1
+#EXTINF:0,Radio Hidayah 103.4 FM Pekanbaru
+#EXTVLCOPT:file-caching=1000
+https://radioislamindonesia.com/radiohidayah.mp3
+#EXTINF:0,Radio Muadz 94.3 FM Kendari
+#EXTVLCOPT:file-caching=1000
+https://radioislamindonesia.com/radiomuadz.mp3
+#EXTINF:0,Radio Voks Surabaya
+#EXTVLCOPT:file-caching=1000
+https://svara-stream.radioddns.net/voks_surabaya
+#EXTINF:0,Radio Andika Kediri
+#EXTVLCOPT:file-caching=1000
+https://r5.siar.us:1057/andikafm
+#EXTINF:0,Radio Classynet Surabaya
+#EXTVLCOPT:file-caching=1000
+https://streaming.classynetradio.com/radio/8000/classySD
+#EXTINF:0,Radio Suara Surabaya
+#EXTVLCOPT:file-caching=1000
+https://c5.siar.us/proxy/ssfm/stream
+#EXTINF:0,Radio Wijaya FM 103.5 FM Surabaya
+#EXTVLCOPT:file-caching=1000
+http://wijayafm.onlivestreaming.net:9880/stream?
+#EXTINF:0,Radio X Channel FM Surabaya
+#EXTVLCOPT:file-caching=1000
+https://stream.xradio.co.id/xchannelsby
+#EXTINF:0,Radio MTB FM Surabaya
+#EXTVLCOPT:file-caching=1000
+https://103.123.98.58:8010/radio.mp3?&_ic2=1/;
+#EXTINF:0,Radio M Malang
+#EXTVLCOPT:file-caching=1000
+https://c4.siar.us/proxy/mradio/stream?_=1
+#EXTINF:0,Radio City Guide FM Malang
+#EXTVLCOPT:file-caching=1000
+https://cityguide911fm.com/radio/audio.mp3
+#EXTINF:0,Radio Kosmonita FM Malang
+#EXTVLCOPT:file-caching=1000
+https://b.alhastream.com:5052/radio
+#EXTINF:0,Radio Tidar Sakti FM Batu
+#EXTVLCOPT:file-caching=1000
+https://pu.klikhost.com/proxy/tidarsakti/stream
